@@ -1,2 +1,2 @@
 # bootcamp1st-week
-adding features
+adding some features in data
